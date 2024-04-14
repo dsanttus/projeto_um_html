@@ -20,7 +20,7 @@
         <img src="/imagens/cais-do-sertao.jpg" alt="imagem do Cais do Sertão">
     </div>
     <div>
-        <a href="/README2.md">Conheça o Marco Zero de Recife/PE</a>
+        <a href="/codigos/index.html">Conheça o Marco Zero de Recife/PE</a>
     </div>
     <footer>
         <p>Página elaborada por Daniel Santos</p>
